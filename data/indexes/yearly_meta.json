@@ -1,0 +1,107 @@
+[
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2002,
+    "content": "Year: 2002\nRevenue: $15.40B\nNet Income: $1.66B\nOperating Margin: 10.79%\nMarket Capitilization: $20.39B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2003,
+    "content": "Year: 2003\nRevenue: $17.14B\nNet Income: $2.34B\nOperating Margin: 13.69%\nMarket Capitilization: $31.33B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2004,
+    "content": "Year: 2004\nRevenue: $19.06B\nNet Income: $3.20B\nOperating Margin: 16.80%\nMarket Capitilization: $40.71B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2005,
+    "content": "Year: 2005\nRevenue: $20.46B\nNet Income: $3.70B\nOperating Margin: 18.09%\nMarket Capitilization: $42.59B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2006,
+    "content": "Year: 2006\nRevenue: $20.81B\nNet Income: $3.88B\nOperating Margin: 19.30%\nMarket Capitilization: $53.36B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2007,
+    "content": "Year: 2007\nRevenue: $22.78B\nNet Income: $3.57B\nOperating Margin: 15.68%\nMarket Capitilization: $67.84B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2008,
+    "content": "Year: 2008\nRevenue: $23.52B\nNet Income: $6.15B\nOperating Margin: 26.18%\nMarket Capitilization: $69.31B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2009,
+    "content": "Year: 2009\nRevenue: $22.74B\nNet Income: $6.48B\nOperating Margin: 28.52%\nMarket Capitilization: $67.22B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2010,
+    "content": "Year: 2010\nRevenue: $24.07B\nNet Income: $7.00B\nOperating Margin: 29.08%\nMarket Capitilization: $80.87B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2011,
+    "content": "Year: 2011\nRevenue: $27.00B\nNet Income: $8.01B\nOperating Margin: 29.67%\nMarket Capitilization: $102.65B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2012,
+    "content": "Year: 2012\nRevenue: $27.56B\nNet Income: $8.07B\nOperating Margin: 29.31%\nMarket Capitilization: $88.44B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2013,
+    "content": "Year: 2013\nRevenue: $28.10B\nNet Income: $8.20B\nOperating Margin: 29.19%\nMarket Capitilization: $96.09B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2014,
+    "content": "Year: 2014\nRevenue: $27.44B\nNet Income: $7.37B\nOperating Margin: 26.86%\nMarket Capitilization: $90.22B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2015,
+    "content": "Year: 2015\nRevenue: $25.41B\nNet Income: $6.55B\nOperating Margin: 25.80%\nMarket Capitilization: $107.12B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2016,
+    "content": "Year: 2016\nRevenue: $24.62B\nNet Income: $6.86B\nOperating Margin: 27.89%\nMarket Capitilization: $101.08B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2017,
+    "content": "Year: 2017\nRevenue: $22.82B\nNet Income: $8.57B\nOperating Margin: 37.57%\nMarket Capitilization: $137.21B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2018,
+    "content": "Year: 2018\nRevenue: $21.02B\nNet Income: $7.81B\nOperating Margin: 37.17%\nMarket Capitilization: $136.21B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2019,
+    "content": "Year: 2019\nRevenue: $21.28B\nNet Income: $8.01B\nOperating Margin: 38.04%\nMarket Capitilization: $147.47B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2020,
+    "content": "Year: 2020\nRevenue: $19.20B\nNet Income: $6.14B\nOperating Margin: 31.97%\nMarket Capitilization: $159.88B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2021,
+    "content": "Year: 2021\nRevenue: $23.22B\nNet Income: $9.12B\nOperating Margin: 39.31%\nMarket Capitilization: $200.31B"
+  },
+  {
+    "doc_type": "yearly_snapshot",
+    "year": 2022,
+    "content": "Year: 2022\nRevenue: $23.18B\nNet Income: $7.82B\nOperating Margin: 33.76%\nMarket Capitilization: $193.01B"
+  }
+]

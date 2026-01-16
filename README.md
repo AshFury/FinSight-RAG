@@ -35,10 +35,3 @@ Python, GPT-4 / Llama-3, LangChain, FAISS, FastAPI, Streamlit, Docker
 
 McDonald’s Financial Statements (2002–2022) — Kaggle
 
-
-🎯 Use Cases
-
-Financial performance analysis
-Risk and volatility assessment
-Business trend explanation for non-technical stakeholders
-Demonstrating real-world LLM-RAG system design in finance

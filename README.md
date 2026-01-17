@@ -28,7 +28,7 @@ Structured, explainable LLM outputs with evidence references
 
 🛠️ Tech Stack
 
-Python, GPT-4 / Llama-3, LangChain, FAISS, FastAPI, Streamlit, Docker
+Python, Llama-3, LangChain, FAISS, FastAPI, Streamlit, Docker
 
 
 📌 Dataset
